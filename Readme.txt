@@ -1,4 +1,4 @@
-Source code and dataset associated with submission to IEEE TAU.
+Source code and dataset associated with submission to IEEE TAI.
 
 
 SP.py and Steiner.py: These files include classes related to shortest path tasks and minimum Steiner tree problems, respectively.
